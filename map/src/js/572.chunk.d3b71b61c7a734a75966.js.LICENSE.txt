@@ -1,0 +1,57 @@
+/* @preserve
+ * Leaflet 1.9.4, a JS library for interactive maps. https://leafletjs.com
+ * (c) 2010-2023 Vladimir Agafonkin, (c) 2010-2011 CloudMade
+ */
+
+/*!
+ * 
+ *  leaflet.motion - v0.3.2 (https://github.com/Igor-Vladyka/leaflet.motion#readme) 
+ *  Animation plugin for Leaflet.js
+ *  
+ *  MIT (http://www.opensource.org/licenses/mit-license.php)
+ *  (c) 2022  Igor Vladyka <igor.vladyka@gmail.com> (https://github.com/Igor-Vladyka/)
+ * 
+ */
+
+/*! no static exports found */
+
+/*!*******************************!*\
+  !*** ./src/leaflet.motion.js ***!
+  \*******************************/
+
+/*!*************************************!*\
+  !*** ./src/leaflet.motion.utils.js ***!
+  \*************************************/
+
+/*!**************************************!*\
+  !*** ./src/leaflet.motion.easing.js ***!
+  \**************************************/
+
+/*!*****************************************!*\
+  !*** ./src/layer/leaflet.motion.seq.js ***!
+  \*****************************************/
+
+/*!*******************************************!*\
+  !*** ./src/layer/leaflet.motion.group.js ***!
+  \*******************************************/
+
+/*!*********************************************!*\
+  !*** ./src/layer/leaflet.motion.polygon.js ***!
+  \*********************************************/
+
+/*!**********************************************!*\
+  !*** ./src/layer/leaflet.motion.polyline.js ***!
+  \**********************************************/
+
+/*!*****************************************************************************************************************************************************************************************************************************************************!*\
+  !*** multi ./src/leaflet.motion.js ./src/leaflet.motion.utils.js ./src/leaflet.motion.easing.js ./src/layer/leaflet.motion.polyline.js ./src/layer/leaflet.motion.polygon.js ./src/layer/leaflet.motion.group.js ./src/layer/leaflet.motion.seq.js ***!
+  \*****************************************************************************************************************************************************************************************************************************************************/
+
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
